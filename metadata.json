@@ -1,0 +1,7 @@
+{
+  "name": "Trung Tín App",
+  "description": "Ứng dụng tối ưu hóa và đăng ảnh Facebook độ nét cao từ iPhone, chuẩn sRGB 2048px, không lo bị vỡ hạt hay mờ ảnh, tích hợp AI viết caption viral.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
